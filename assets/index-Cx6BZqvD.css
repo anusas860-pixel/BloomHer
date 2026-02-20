@@ -1,0 +1,1 @@
+:root{--bg: #fff;--fg: #111827}html,body,#root{height:100%}body{margin:0;font-family:Inter,Outfit,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial;background:var(--bg);color:var(--fg)}.app-root{padding:2rem}
